@@ -1,0 +1,20 @@
+.list {
+    display: flex;
+    gap: 15px;
+
+    margin-bottom: 100px;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    width: 80px;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    border-radius: 4px;
+    border: 2px solid black;
+}
